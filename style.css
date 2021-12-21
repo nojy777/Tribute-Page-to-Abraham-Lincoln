@@ -1,5 +1,6 @@
+
 body{
-   display: flex;
+   display: inline;
    justify-content: center;
    background-color: burlywood;
    color: black;
@@ -18,8 +19,8 @@ h2{
 #image{
    width: 100%;
 }
-#more-info{
-   text-align: center;
+#more-information{
+   text-align: justify;
 }
 a{
    text-decoration: none;
